@@ -58,6 +58,7 @@ make clean      # Clean build
 - Frank Vahid - "Digital Design with RTL Design, VHDL, and Verilog"
 - Bezerra & Lettnin - "VHDL: Descrição e Síntese de Circuitos Digitais"
 - Roberto d'Amore - "VHDL: Descrição e Síntese de Circuitos Digitais"
+- Herbert Schildt - "C Completo e Total"
 
 ## License
 
